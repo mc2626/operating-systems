@@ -1,0 +1,27 @@
+The output of: uname -a : is
+>>>>>>>>>>>>>>>
+Linux MILALAPTOP 5.15.90.1-microsoft-standard-WSL2 #1 SMP Fri Jan 27 02:56:13 UTC 2023 x86_64 x86_64 x86_64 GNU/Linux
+<<<<<<<<<<<<<<<
+The output of: free -m : is
+>>>>>>>>>>>>>>>
+               total        used        free      shared  buff/cache   available
+Mem:            7865         825        5449           3        1590        6745
+Swap:           2048           0        2048
+<<<<<<<<<<<<<<<
+The output of: ls -l -a -F : is
+>>>>>>>>>>>>>>>
+total 100
+drwxr-xr-x 5 root root  4096 Oct 12 02:52 ./
+drwxr-xr-x 3 root root  4096 Oct 11 21:20 ../
+drwxr-xr-x 7 root root  4096 Oct 11 21:22 .git/
+drwxr-xr-x 2 root root  4096 Oct 11 21:20 .github/
+drwxr-xr-x 2 root root  4096 Oct 11 23:54 .vscode/
+-rw-r<<<<<<<<<<<<<<<
+The output of: whoami : is
+>>>>>>>>>>>>>>>
+root
+<<<<<<<<<<<<<<<
+The output of: pwd : is
+>>>>>>>>>>>>>>>
+/home/WLU_Y3/CP386_OS/A2-mila-erika
+<<<<<<<<<<<<<<<
